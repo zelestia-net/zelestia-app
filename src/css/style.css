@@ -2,6 +2,17 @@
 
 body {
     font-family: 'Inter', sans-serif;
-    color: green;
+    color: black;
+    background-color: white;
+}
+
+.dark {
+
     background-color: black;
+    color: green;
+   
+}
+
+#theme-btn {
+    background: url(../img/lune.png);
 }
