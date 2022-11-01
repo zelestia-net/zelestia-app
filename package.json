@@ -1,0 +1,40 @@
+{
+  "name": "zelestia-app",
+  "version": "0.0.1",
+  "description": "Une app qui regroupe tout les services de l'organisations.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "build": {
+    "icon": "logo_color.png",
+    "appId": "io.github.zelestia-app",
+    "productName": "zelestia"
+  },
+  "nsis": {
+    "oneClick": false,
+    "perMachine": false,
+    "allowToChangeInstallationDirectory": true,
+    "installerIcon": "logo_color.png",
+    "uninstallerIcon": "logo_color.png",
+    "deleteAppDataOnUninstall": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zelestia-net/zelestia-app.git"
+  },
+  "keywords": [
+    "app"
+  ],
+  "author": "Zelestia Net",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zelestia-net/zelestia-app/issues"
+  },
+  "homepage": "https://github.com/zelestia-net/zelestia-app#readme",
+  "devDependencies": {
+    "electron": "^21.2.1",
+    "electron-builder": "^23.6.0"
+  }
+}
