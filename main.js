@@ -6,8 +6,8 @@ function createWindow () {
     title: "Zelestia App",
     autoHideMenuBar: true,
     icon: path.join(__dirname, './src/img/logo_color.png'),
-    width: 800,
-    height: 600,
+    width: 1280,
+    height: 720,
   })
 
   win.loadFile('index.html')
