@@ -1,6 +1,6 @@
 {
   "name": "zelestia-app",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Une app qui regroupe tout les services de l'organisations.",
   "main": "main.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "appId": "io.github.zelestia-app",
     "productName": "Zelestia",
     "nsis": {
-      "artifactName": "ZelestiaSetup.${ext}",
+      "artifactName": "ZelestiaSetup ${version}.${ext}",
       "oneClick": false,
       "perMachine": false,
       "allowToChangeInstallationDirectory": true,
