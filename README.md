@@ -1,2 +1,2 @@
-# zelestia-app
-# Une application qui englobe tout les services de l'organisations
+# ZelestiaApp
+# An application that encompasses all the services of the organization
