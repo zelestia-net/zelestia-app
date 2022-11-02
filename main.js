@@ -9,7 +9,6 @@ function createWindow () {
     width: 1280,
     height: 720,
   })
-
   win.loadFile('index.html')
 }
 
