@@ -59,38 +59,3 @@ button {
 h1 {
     text-align: center;
 }
-
-/* Old version off css don't touch pls */
-/* @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
-
-body {
-    font-family: 'Inter', sans-serif;
-    color: black;
-    background-color: white;
-}
-
-.dark {
-    background-color: black;
-    color: green;
-}
-
-.nav {
-    display: inline-block;
-    padding-top: 40px;
-    padding-left: 10%;
-    padding-right: 10%;
-}
-
-.nav ul li {
-    list-style-type: none;
-    padding: 10px 20px;
-}
-
-.nav ul li a {
-    text-decoration: none;
-}
-
-.nav ul li a:hover {
-    color: #1bcf1b;
-    transition: 200ms;
-} */
