@@ -1,6 +1,6 @@
 {
   "name": "zelestia-app",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Une app qui regroupe tout les services de l'organisations.",
   "main": "main.js",
   "scripts": {
