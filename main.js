@@ -3,7 +3,7 @@ const path = require('path')
 
 function createWindow () {
   const win = new BrowserWindow({
-    title: "Zelestia App",
+    title: "Zelestia Net",
     autoHideMenuBar: true,
     icon: path.join(__dirname, './src/img/logo_color.png'),
     width: 1280,
